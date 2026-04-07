@@ -103,7 +103,7 @@ This affects:
 
 ## 🔌 Circuit Diagram
 
-<img src="./Circuit.png" alt="Circuit" width="600" title="Circuit Diagram">
+<img src="./Circuit.png" alt="Circuit" width="400" title="Circuit Diagram">
 
 ## 🖥️ Software Interface
 
@@ -118,7 +118,7 @@ The software acts like a **virtual CRO / network analyzer**:
 
 ## 📈 GUI Outlook
 
-<img src="./GUI.png" alt="GUI" width="600" title="GUI">
+<img src="./GUI.png" alt="GUI" width="800" title="GUI">
 
 ---
 
