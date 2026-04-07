@@ -65,16 +65,19 @@ $$
 ### 🔹 Bandwidth & Quality Factor
 
 - Half-power condition:
+  
 $$
 I = \frac{I_{max}}{\sqrt{2}}
 $$
 
 - Bandwidth:
+  
 $$
 \Delta f = f_H - f_L
 $$
 
 - Quality Factor:
+  
 $$
 Q = \frac{f_0}{\Delta f}
 $$
